@@ -44,7 +44,7 @@ class Flight{
         System.out.println();
     }
 }
-public class FlightTicketReservationSystem{
+public class FlightTicketBooking{
     public static void main(String[] args) throws Exception {
         InputStreamReader isr = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(isr);
